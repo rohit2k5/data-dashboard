@@ -1,0 +1,58 @@
+{
+  "placeholderImages": [
+    {
+      "id": "profile",
+      "description": "A professional headshot of Rohit Mirge.",
+      "imageUrl": "/rohit-mirge.jpg",
+      "imageHint": "professional man"
+    },
+    {
+      "id": "project-1",
+      "description": "Dashboard showing sales analytics.",
+      "imageUrl": "https://picsum.photos/seed/proj1/600/400",
+      "imageHint": "data dashboard"
+    },
+    {
+      "id": "project-2",
+      "description": "A graph showing machine learning model performance.",
+      "imageUrl": "https://picsum.photos/seed/proj2/600/400",
+      "imageHint": "machine learning"
+    },
+    {
+      "id": "project-3",
+      "description": "Customer segmentation chart.",
+      "imageUrl": "https://picsum.photos/seed/proj3/600/400",
+      "imageHint": "data analysis"
+    },
+    {
+      "id": "project-4",
+      "description": "Heatmap of user engagement.",
+      "imageUrl": "https://picsum.photos/seed/proj4/600/400",
+      "imageHint": "data visualization"
+    },
+    {
+      "id": "project-5",
+      "description": "HR Analytics Dashboard showing employee metrics.",
+      "imageUrl": "https://picsum.photos/seed/proj5/600/400",
+      "imageHint": "HR dashboard"
+    },
+    {
+      "id": "blog-1",
+      "description": "Abstract data visualization.",
+      "imageUrl": "https://picsum.photos/seed/blog1/600/400",
+      "imageHint": "data art"
+    },
+    {
+      "id": "blog-2",
+      "description": "Code on a screen.",
+      "imageUrl": "https://picsum.photos/seed/blog2/600/400",
+      "imageHint": "programming code"
+    },
+    {
+      "id": "blog-3",
+      "description": "A person giving a presentation with charts.",
+      "imageUrl": "https://picsum.photos/seed/blog3/600/400",
+      "imageHint": "business presentation"
+    }
+  ]
+}

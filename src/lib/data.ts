@@ -35,7 +35,7 @@ export const projects: Project[] = [
           link: 'https://www.linkedin.com/posts/rohitmirge_uidesign-uxdesign-dashboarddesign-activity-7412543340388458497-Q3Ko',
         },
         {
-          id: 6,
+          id: 7,
           title: 'Fitness Analytics Dashboard',
           description: 'An interactive fitness analytics dashboard built with Power BI to track health metrics and gym performance.',
           longDescription: 'Designed and developed a comprehensive Fitness Analytics Dashboard using Power BI to monitor user health and gym operations. The dashboard includes BMI analysis, calorie and BMR/TDEE calculations, membership insights by gender and plan type, and detailed member-level information. Interactive filters allow users to analyze fitness progress, demographics, and activity levels, supporting data-driven decision-making for fitness centers and trainers.',

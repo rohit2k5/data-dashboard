@@ -42,7 +42,7 @@ export default function Home() {
               </Link>
             </Button>
             <Button variant="secondary" asChild className="transition-transform hover:scale-105 hover:shadow-lg">
-              <a href="/RohitMirgeCV.pdf" download>
+              <a href="/rohit_mirge_resume (1) (1).pdf" download>
                 <Download className="mr-2" /> Download CV
               </a>
             </Button>
